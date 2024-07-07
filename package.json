@@ -1,0 +1,25 @@
+{
+  "name": "task-week1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glenyaochih/main-task-week1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glenyaochih/main-task-week1/issues"
+  },
+  "homepage": "https://github.com/Glenyaochih/main-task-week1#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
+
